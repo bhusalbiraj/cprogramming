@@ -1,0 +1,49 @@
+body {
+    background-image: url('new.webp');
+    color:white;
+}
+
+.im{
+    height:18%;
+    width:18%;
+    margin-top: 16vh;
+    border-radius: 50%;
+    border: 2.5px solid white;
+}
+
+
+.info{
+    margin-top: 2vh;
+}
+
+.s1{
+    font-size: 18px;
+    line-height: 24px;
+    word-spacing:5px;
+    font-weight: 900;
+    letter-spacing:1px;
+}
+
+.s2{
+    font-size: 28px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    word-spacing: 7px;
+    letter-spacing: 2px;
+    color:rgb(106, 223, 231);
+}
+
+button{
+    padding:20px 100px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #010044;
+    color: #fff;
+    border: 2px solid white;
+  }
+
+.s3{
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
